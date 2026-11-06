@@ -47,21 +47,18 @@ The aim is to design, implement, and analyze a D Latch using Synopsys EDA tools,
 ![image](https://github.com/user-attachments/assets/ddf3603b-bdfd-41f2-8a98-4ad93862fd9f)
 
 ### 2. Schematic of D Latch
-<img width="940" height="595" alt="WhatsApp Image 2026-07-31 at 09 59 59" src="https://github.com/user-attachments/assets/4cf7e991-484c-4b21-a5f7-73c61888b75a" />
+
+<img width="1188" height="708" alt="WhatsApp Image 2026-11-03 at 11 21 13 AM" src="https://github.com/user-attachments/assets/661d7a95-d2ac-4ea0-a48c-7e53568ae59f" />
 
 ### 3. Transient Response Setup
 
-![image](https://github.com/user-attachments/assets/a1b87a68-274c-45f4-8262-036a6c11c4d8)
-
-![image](https://github.com/user-attachments/assets/12a4c141-c3f6-4efd-a66f-a89c70848bcd)
-
-
+<img width="1600" height="596" alt="WhatsApp Image 2026-11-03 at 11 22 46 AM" src="https://github.com/user-attachments/assets/99b95e2e-1770-4be0-8aa6-da0f60e871ca" />
 
 ## Output
 
 ### 1. Transient Analysis Output
-<img width="940" height="481" alt="WhatsApp Image 2026-07-31 at 09 59 59 (1)" src="https://github.com/user-attachments/assets/8c93b521-8a36-468d-9876-d6a9bae12d7b" />
 
+<img width="1600" height="659" alt="WhatsApp Image 2026-11-03 at 11 21 42 AM" src="https://github.com/user-attachments/assets/1d44e4ec-c39d-4bd1-8b6d-db0b405c3a8a" />
 
 ## Results
 1. Successfully designed the D Latch using Synopsys EDA tools.
